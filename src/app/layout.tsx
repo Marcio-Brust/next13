@@ -1,7 +1,7 @@
 import { ReactNode } from "react";
 import Footer from "./components/Footer/Footer";
 import Header from "./components/Header/Header";
-import StyledComponentsRegistry from "u@/lib/registryndefined";
+import StyledComponentsRegistry from "u@/app/registryndefined";
 
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
