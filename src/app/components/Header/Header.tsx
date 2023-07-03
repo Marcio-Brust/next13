@@ -5,7 +5,8 @@ const Header = () => {
   return (
     <HeaderStyled>
       <Link href="/">Home</Link>
-      <Link href="/cursos">Curos</Link>
+      <Link href="/cursos">Cursos</Link>
+      <Link href="/contato">Contato</Link>
     </HeaderStyled>
   );
 };
